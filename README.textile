@@ -1,6 +1,6 @@
-h1. Assembler
+h1. Google Spreadsheet to CSV
 
-A unified dashboard for Assembla Spaces.
+Convert a Google Spreadsheet to a CSV
 
 h3. Nick Breslin, Etiquette Studio
 
@@ -15,3 +15,5 @@ h3. Settings File
 h3. Log File
 
 h2. Releases & Changelog
+
+The current build is not stable.
